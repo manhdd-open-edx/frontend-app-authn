@@ -32,7 +32,6 @@
     "url": "https://github.com/openedx/frontend-app-authn/issues"
   },
   "dependencies": {
-    "@babel/preset-typescript": "^7.25.7",
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/frontend-platform": "^8.0.0",
     "@edx/openedx-atlas": "^0.6.0",
